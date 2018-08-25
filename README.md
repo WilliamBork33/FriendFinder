@@ -1,6 +1,8 @@
 # FriendFinder
 
-A compatibility-based "FriendFinder" application. Surveys users, then compares their answers with those from other users (Pokemon in this case). The app will then display the name and picture of the user with the best overall match. 
+A compatibility-based "FriendFinder" application. Surveys users, then compares their answers with those from other users (Pokemon in this case). The app will then display the name and picture of the user with the best overall match.
+
+Live link: https://evening-wave-19288.herokuapp.com/
 
 
 ### Before You Begin

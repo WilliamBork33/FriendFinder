@@ -18,7 +18,7 @@ A compatibility-based "FriendFinder" application. Surveys users, then compares t
     * `npm install path`
 
 
-### Running Liri
+### Running friendFinder
 
 1. Run you local server.
 
